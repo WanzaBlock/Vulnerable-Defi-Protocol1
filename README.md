@@ -13,8 +13,6 @@ This is a **comprehensive security audit portfolio project** with deliberately v
 
 2. **4 Comprehensive Audit Documents**
    - THREAT_MODEL.md (41KB) - Complete threat analysis
-   - SEVERITY_TABLE.md (21KB) - 18 issues with CVSS scores
-   - EXECUTION_FLOWS.md (19KB) - Visual attack diagrams
    - README.md - Full project documentation
 
 3. **3 Working Exploit Tests**
@@ -109,3 +107,4 @@ Perfect for demonstrating:
 **Purpose**: Educational & Portfolio
 # Vulnerable-Defi-Protocol
 # Vulnerable-Defi-Protocol
+# Vulnerable-Defi-Protocol1
