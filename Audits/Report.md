@@ -1,6 +1,5 @@
 # 🔒 SECURITY AUDIT REPORT
 
-<div align="center">
 
 ## Vulnerable DeFi Protocol
 ### Educational Security Assessment
