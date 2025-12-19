@@ -1,6 +1,6 @@
-# 🔒 Vulnerable DeFi Protocol - Complete Project Summary
+#  Vulnerable DeFi Protocol - Complete Project Summary
 
-## 📦 What's Included
+##  What's Included
 
 This is a **comprehensive security audit portfolio project** with deliberately vulnerable smart contracts, professional documentation, and working exploit demonstrations.
 
@@ -27,7 +27,7 @@ This is a **comprehensive security audit portfolio project** with deliberately v
    - .gitignore
    - QUICKSTART.md guide
 
-## 🎯 Key Vulnerabilities (18 Total)
+##  Key Vulnerabilities (18 Total)
 
 ### Critical (5)
 - Reentrancy in vault withdrawal
@@ -69,7 +69,7 @@ This is a **comprehensive security audit portfolio project** with deliberately v
 ✅ Technical documentation  
 ✅ Code review processes
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Install Foundry
@@ -85,7 +85,7 @@ forge build
 forge test --match-path "test/exploits/*" -vvv
 ```
 
-## 💼 Portfolio Use
+##  Portfolio Use
 
 Perfect for demonstrating:
 - Security Auditor capabilities
@@ -93,7 +93,7 @@ Perfect for demonstrating:
 - DeFi Protocol expertise
 - Blockchain Security knowledge
 
-## ⚠️ Important
+##  Important
 
 **EDUCATIONAL PURPOSE ONLY**
 - Never deploy to mainnet
