@@ -316,6 +316,3 @@ Calculation:
 
 ---
 
-**Document Version**: 1.0  
-**Last Updated**: 2024  
-**Classification**: Educational - Deliberately Vulnerable
