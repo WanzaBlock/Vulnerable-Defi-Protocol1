@@ -1,4 +1,4 @@
-# 🔒 SECURITY AUDIT REPORT
+#  SECURITY AUDIT REPORT
 
 
 ## Vulnerable DeFi Protocol
@@ -16,11 +16,11 @@
 
 ---
 
-## 📋 Executive Summary
+##  Executive Summary
 
 This security audit identifies **18 critical vulnerabilities** in the Vulnerable DeFi Protocol, a deliberately insecure smart contract system designed for educational purposes. The assessment covers three core contracts: `VulnerableVault`, `VulnerableRewardsDistributor`, and `VulnerableGovernance`.
 
-### 📊 Key Findings
+###  Key Findings
 
 | Severity | Count | Risk Score | Primary Impact |
 |:---------|:-----:|:-----------|:---------------|
@@ -31,7 +31,7 @@ This security audit identifies **18 critical vulnerabilities** in the Vulnerable
 
 ---
 
-## 🚨 Critical Findings
+##  Critical Findings
 
 ### 1. Reentrancy in withdraw() Function
 
@@ -127,7 +127,7 @@ if (totalSupply() == 0) {
 
 ---
 
-## ⏱️ Remediation Timeline
+##  Remediation Timeline
 
 | Priority | Issues | Timeline | Action Required |
 |:---------|:------:|:---------|:----------------|
@@ -137,7 +137,7 @@ if (totalSupply() == 0) {
 
 ---
 
-## 📈 Test Coverage
+##  Test Coverage
 
 **All vulnerabilities have been validated with working exploits:**
 
@@ -157,11 +157,11 @@ Ran 3 test suites: 9 tests passed, 0 failed
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 The **Vulnerable DeFi Protocol** contains severe security vulnerabilities that would allow **complete fund theft** in a production environment. This audit successfully demonstrates common DeFi attack vectors for educational purposes.
 
-### 📝 Next Steps
+###  Next Steps
 
 - [ ] Review and implement all critical fixes immediately
 - [ ] Deploy fixed contracts to testnet for validation
@@ -178,8 +178,6 @@ The **Vulnerable DeFi Protocol** contains severe security vulnerabilities that w
 
 ---
 
-*Report Generated: December 2024*  
-*Test Framework: Foundry*  
-*Solidity Version: 0.8.30*
+
 
 </div>
